@@ -1,0 +1,27 @@
+# Core
+openai
+python-dotenv
+SQLAlchemy
+
+# Gmail / Google APIs
+google-api-python-client
+google-auth
+google-auth-httplib2
+google-auth-oauthlib
+
+# Data / RAG / AI
+numpy
+pandas
+faiss-cpu
+sentence-transformers
+transformers
+torch
+
+# Dashboard
+streamlit==1.61.1
+streamlit-autorefresh
+altair
+pyarrow
+
+# Testing
+pytest
