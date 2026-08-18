@@ -8,3 +8,5 @@ token.json
 
 # Virtual environment.venv/
 .venv/
+__pycache__/
+*.pyc
